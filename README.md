@@ -52,8 +52,11 @@ We also measure and compare the runtime of the model training process for both c
 
 The results show the runtime differences between using Intel-optimized TensorFlow and regular TensorFlow for training your image classification model.
 
-### Accuracy comparison
+## Accuracy comparison
 
 <img src='https://github.com/balasuriyaranganathan/brain_tumor_classification/blob/main/1.png'>
 
 <img src='https://github.com/balasuriyaranganathan/brain_tumor_classification/blob/main/2.png'>
+
+##compiling the code in intel dev cloud further gives better accuracy
+<img src='https://github.com/balasuriyaranganathan/brain_tumor_classification/blob/main/3.png'>
